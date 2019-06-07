@@ -8,5 +8,5 @@ python devve.py
 ```
 
 ## Donations
-[Paypal](paypal.me/devve2k)
+paypal.me/devve2k
 
