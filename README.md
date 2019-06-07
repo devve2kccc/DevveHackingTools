@@ -3,6 +3,7 @@
 ## Usage
 
 ```bash
+git clone https://github.com/devve2kkcc/DevveHackingTools.git
 python devve.py
 ```
 
